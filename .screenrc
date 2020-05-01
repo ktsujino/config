@@ -1,0 +1,5 @@
+escape ^Tt
+vbell on
+vbell_mesg "beep"
+startup_message off
+caption always "%{= wk} %-w%{=bu dr}%n %t%{-}%+w"
